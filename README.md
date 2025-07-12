@@ -11,28 +11,28 @@ Um app feito em Flutter para calcular o **Índice de Massa Corporal (IMC)**. Ide
 - Interface limpa e responsiva
 
 ## 📱 Preview
-<p align="center">
-    <img src="images/abaixodopeso.jpg" alt="Abaixo do peso" width="250" style="margin-right: 16px;"/>
-    <img src="images/pesonormal.jpg" alt="Normal" width="250" style="margin-right: 16px;"/>
-    <img src="images/sobrepeso.jpg" alt="Sobrepeso" width="250"/>
-</p>
-<p align="center">
-    <strong style="display:inline-block;width:250px;text-align:center; font-size:24px; margin-right:16px;">Abaixo do peso</strong>
-    <strong style="display:inline-block;width:250px;text-align:center; font-size:24px; margin-right:16px;">Normal</strong>
-    <strong style="display:inline-block;width:250px;text-align:center; font-size:24px;">Sobrepeso</strong>
-</p>
 
-<p align="center">
-    <img src="images/obesidadegrau1.jpg" alt="Obesidade Grau 1" width="250" style="margin-right: 16px;"/>
-    <img src="images/obesidadegrau2.jpg" alt="Obesidade Grau 2" width="250" style="margin-right: 16px;"/>
-    <img src="images/obesidadegrau3.jpg" alt="Obesidade Grau 3" width="250"/>
-</p>
-<p align="center">
-    <strong style="display:inline-block;width:250px;text-align:center; font-size:24px; margin-right:16px;">Obesidade Grau 1</strong>
-    <strong style="display:inline-block;width:250px;text-align:center; font-size:24px; margin-right:16px;">Obesidade Grau 2</strong>
-    <strong style="display:inline-block;width:250px;text-align:center; font-size:24px;">Obesidade Grau 3</strong>
-</p>
+<div align="center">
 
+<img src="images/abaixodopeso.jpg" alt="Abaixo do peso" width="250"/>
+<img src="images/pesonormal.jpg" alt="Peso normal" width="250"/>
+<img src="images/sobrepeso.jpg" alt="Sobrepeso" width="250"/>
+
+<br/>
+
+<strong>Abaixo do peso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peso Normal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sobrepeso</strong>
+
+<br/><br/>
+
+<img src="images/obesidadegrau1.jpg" alt="Obesidade Grau 1" width="250"/>
+<img src="images/obesidadegrau2.jpg" alt="Obesidade Grau 2" width="250"/>
+<img src="images/obesidadegrau3.jpg" alt="Obesidade Grau 3" width="250"/>
+
+<br/>
+
+<strong>Obesidade Grau 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Obesidade Grau 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Obesidade Grau 3</strong>
+
+</div>
 
 ## 🧰 Tecnologias usadas
 
